@@ -1,0 +1,22 @@
+                                                                                                                                                             LifeSaver  App
+                                                                                                                                                   ~~~~~~~~~~~~~~~~~~
+
+
+_____Colour Selection_______
+1. HomeScreen- {background: radial-gradient(red, maroon)}
+2. DonateScreen-{background: radial-gradient(red, lightpink)}
+3.A+-{background: radial-gradient(pink, white)}
+4.A- -{background: radial-gradient(orange,white)}
+5.B+-{background: radial-gradient(lightblue,white)}
+6.B- -{background: radial-gradient(purple,white)}
+7.O+-{background: radial-gradient(black,blue)}
+8.O- -{background: radial-gradient(white,violet)}
+9.AB+-{background: radial-gradient(pink,black)}
+10.AB- -{background: radial-gradient(white,brown,black)}
+11.Thank you -{background: radial-gradient(yellow,brown)}
+
+______IonIcons Selection______
+1.RequestScreen- {<ion-icon name="fitness-outline"></ion-icon>}
+2.DonateScreen-{<ion-icon name="water-outline"></ion-icon>}
+
+
