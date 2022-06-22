@@ -1,0 +1,38 @@
+                                                                                                                                                             App Design Elements
+                                                                                                                                                     ````````````````````````````````````````````````````
+
+ 1. Title:- LifeSaver  App
+2.Goal:- To save the life of people
+3.Rules/features:-  Homescreen-Images,title,Tabnavigator | RequestScreen- Search Option and  Request button | DonateScreen:- Details(Name,ph.,bloodgroup,submit,location,text)
+4.Feedback-Alert messages when the data is stored in db,get only the requested   info in the Request Screen
+5.Chances- Add more features,
+
+Colour Selection:-
+``````````````````````````````
+Main Colour:-{ background: radial-gradient(red,maroon)}
+DonateScreen :-{background: radial-gradient(blue,white)}
+
+Images:-
+`````````````
+MainScreen:-img_1
+RequestScreen:-img_2
+DonateScreen:-img_3
+
+There will be 3 screens:- HomeScreeen,RequestScreen,DonateScreen.
+We will  be using StackNavigator for switching between  the screens.
+
+About the Screens:-
+~~~~~~~~~~~~~~~~~
+ Homescreen-Images,title,Tabnavigator .
+RequestScreen- Search Option and  Request button .
+ DonateScreen:- Details(Name,ph.,bloodgroup,submit,location,text).
+
+
+We will  work on RealTime DataBase to store all the data about the user.
+
+Libraries For Our App:-
+~~~~~~~~~~~~~~~~~~~~
+1."@react-navigation/native"
+2."@react-navigation/stack"
+3."react-native-responsive-fontsize"
+4."react-native-dropdown-picker"

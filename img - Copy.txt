@@ -1,0 +1,7 @@
+                                                                                                                                                             App Design Elements
+
+ 1. Title:- LifeSaver  App
+2.Goal:- To save the life of people
+3.Rules/features:-  Homescreen-Images,title,Tabnavigator | RequestScreen- Search Option and  Request button | DonateScreen:- Details(Name,ph.,bloodgroup,submit,location,text)
+4.Feedback-Alert messages when the data is stored in db,get only the requested   info in the Request Screen
+5.Chances- Add more features,
